@@ -1,7 +1,7 @@
 <p align='center'>
   <b>Hi 👋, I'm alrxe</b><br>
   <a href="https://discord.gg/TkHF7r2wZK">Discord</a> |
-  <a href="https://www.youtube.com/c/alrxe">YouTube</a> 
+  <a href="https://www.youtube.com/@alrxe">YouTube</a> 
 
 </p>
 
